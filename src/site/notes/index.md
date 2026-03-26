@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Sumana Sahoo","tags":["CV","RemoteSensing","Geospatial"],"dg-note-properties":{"title":"Sumana Sahoo","tags":["CV","RemoteSensing","Geospatial"]}}
+{"dg-publish":true,"permalink":"/index/","title":"Sumana Sahoo","tags":["CV","RemoteSensing","Geospatial","gardenEntry"],"dg-note-properties":{"title":"Sumana Sahoo","tags":["CV","RemoteSensing","Geospatial","gardenEntry"]}}
 ---
 
 
